@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/article/page": "/article",
+  "/country-state-city/page": "/country-state-city",
+  "/dashboard/page": "/dashboard",
+  "/careers/page": "/careers",
+  "/faqs/page": "/faqs",
+  "/page": "/",
+  "/how-it-works/page": "/how-it-works",
+  "/privacy-terms/page": "/privacy-terms",
+  "/auto-dealership/page": "/auto-dealership"
+}

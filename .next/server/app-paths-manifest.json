@@ -1,7 +1,13 @@
 {
-  "/auto-dealership/page": "app/auto-dealership/page.js",
-  "/careers/page": "app/careers/page.js",
-  "/how-it-works/page": "app/how-it-works/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/article/page": "app/article/page.js",
-  "/faqs/page": "app/faqs/page.js"
+  "/country-state-city/page": "app/country-state-city/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/careers/page": "app/careers/page.js",
+  "/faqs/page": "app/faqs/page.js",
+  "/page": "app/page.js",
+  "/how-it-works/page": "app/how-it-works/page.js",
+  "/privacy-terms/page": "app/privacy-terms/page.js",
+  "/auto-dealership/page": "app/auto-dealership/page.js"
 }

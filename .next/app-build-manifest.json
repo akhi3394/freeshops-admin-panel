@@ -1,54 +1,99 @@
 {
   "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/app/_not-found/page-0cb33d63dad6fd4d.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/dashboard/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/page.js"
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/layout-82733932166f5635.js"
     ],
     "/article/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/article/page.js"
-    ],
-    "/faqs/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/faqs/page.js"
-    ],
-    "/auto-dealership/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/auto-dealership/page.js"
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/516-79dffb687c3469e3.js",
+      "static/chunks/384-d18c3c32ffc2fc5f.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/article/page-c83af2948df19497.js"
     ],
     "/country-state-city/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/country-state-city/page.js"
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/app/country-state-city/page-7f798e68387123d8.js"
     ],
-    "/privacy-terms/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/privacy-terms/page.js"
+    "/dashboard/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/app/dashboard/page-a2c5206c4b41e4da.js"
     ],
     "/careers/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/careers/page.js"
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/516-79dffb687c3469e3.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/careers/page-824e6e9cac758f99.js"
+    ],
+    "/faqs/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/516-79dffb687c3469e3.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/faqs/page-38ee6e1aa819058c.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/app/page-1837d58971174758.js"
     ],
     "/how-it-works/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/how-it-works/page.js"
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/516-79dffb687c3469e3.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/how-it-works/page-2e4e94ec77b95129.js"
+    ],
+    "/privacy-terms/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/app/privacy-terms/page-1762805675dbd8bf.js"
+    ],
+    "/auto-dealership/page": [
+      "static/chunks/webpack-2f7b9ded6775055f.js",
+      "static/chunks/4bd1b696-82aee636633ffb90.js",
+      "static/chunks/684-1804c4511fa33cc1.js",
+      "static/chunks/main-app-94f63ad9b37d8614.js",
+      "static/chunks/920-0ee1f02f07bb49a8.js",
+      "static/chunks/516-79dffb687c3469e3.js",
+      "static/chunks/555-c3255d9a122585f4.js",
+      "static/chunks/app/auto-dealership/page-39ca4b424ff2559d.js"
     ]
   }
 }
