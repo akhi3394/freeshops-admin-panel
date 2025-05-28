@@ -1,0 +1,7 @@
+{
+  "/auto-dealership/page": "app/auto-dealership/page.js",
+  "/careers/page": "app/careers/page.js",
+  "/how-it-works/page": "app/how-it-works/page.js",
+  "/article/page": "app/article/page.js",
+  "/faqs/page": "app/faqs/page.js"
+}
